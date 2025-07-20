@@ -13,13 +13,17 @@ Backend: Strapi / Firebase (for CMS & data storage)
 ✨ Key Features
 
 ✅ Refreshed UI & UX inspired by the latest design trends
+
 ✅ AI-generated branding elements while keeping Apple’s core identity
+
 ✅ Mobile-first design & SEO optimization
+
 ✅ Fast performance and smooth animations
 
 🤖 Useful AI Tools
 
 Durable – AI-powered website builder
+
 Adobe Firefly – AI design generation for icons, backgrounds, and mockups
 
 💡Inspiration
