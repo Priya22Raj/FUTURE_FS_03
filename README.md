@@ -7,6 +7,7 @@ Rebranding Apple’s website using AI-driven tools and modern frameworks, while 
 🛠 Tech Stack
 
 Frontend: Next.js, Tailwind CSS (for a modern, clean UI)
+
 Backend: Strapi / Firebase (for CMS & data storage)
 
 ✨ Key Features
