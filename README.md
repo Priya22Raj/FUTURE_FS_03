@@ -1,6 +1,8 @@
 
 🚀 FUTURE_FS_03
 
+
+
 📌 Task
 
 Rebranding Apple’s website using AI-driven tools and modern frameworks, while maintaining its minimalist and sleek brand feel.
@@ -12,6 +14,8 @@ Frontend: Next.js, Tailwind CSS (for a modern, clean UI)
 
 Backend: Strapi / Firebase (for CMS & data storage)
 
+
+
 ✨ Key Features
 
 
@@ -22,6 +26,8 @@ Backend: Strapi / Firebase (for CMS & data storage)
 ✅ Mobile-first design & SEO optimization
 
 ✅ Fast performance and smooth animations
+
+
 
 🤖 Useful AI Tools
 
